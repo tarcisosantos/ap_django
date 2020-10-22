@@ -27,6 +27,7 @@ whitenoise = "*"
 cloudinary = "*"
 django-cloudinary-storage = "*"
 collectfast = "*"
+freeze = "*"
 
 [requires]
 python_version = "3.8"
