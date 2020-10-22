@@ -1,4 +1,4 @@
-# ap_jango
+# ap_Django
 Aprendendo usar DJnago com Python no Curso Python Pro
 Aplicação Disponível em: https://tsantosdjango.herokuapp.com/
 
