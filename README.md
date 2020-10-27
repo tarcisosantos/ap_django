@@ -13,4 +13,3 @@ Para Conferência da qualidade do Código:
 ```
 
 Atualizações... 
-ok
