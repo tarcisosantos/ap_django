@@ -13,3 +13,5 @@ Para Conferência da qualidade do Código:
 ```
 
 Atualizações... 
+Usando GA no lugar Travis CI
+
