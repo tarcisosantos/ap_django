@@ -35,29 +35,6 @@
 
 {% block body %}{% endblock body %}
 
-    <footer class="main-footer mt-5 pt-4 text-right text-light">
-        <div class="container">
-            <div class="rows">
-                <div class="col">
-                    <h3>Entre em Contato:</h3>
-                    <address>
-                        +55 96 981404-4936
-                        <br>
-                        <a href="mailto:bentessantostarciso@gmail.com"
-                           class='text-light'>bentessantostarciso@gmail.com</a>
-                    </address>
-                </div>
-            </div>
-        </div>
-        <div class="rights pb-4 text-center">
-            <div class="container">
-                <div class="rows">
-                    <div class="col">
-                        {% now 'Y' %} clicknacidade.com - Todos os direitos reservados
-                    </div>
-                </div>
-            </div>
-        </div>
-    </footer>
+{% include 'base/footer.html' with contato_email='bentessantostarciso@gmail.com' only %}
   </body>
 </html>
