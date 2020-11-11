@@ -1,0 +1,17 @@
+DEBUG = True
+SECRET_KEY = "CHAVE SECRETA"
+ALLOWER_HOSTS = "localhost, 127.0.0.1"
+
+# cloudinary_config
+API_SECRET=
+API_KEY=
+CLOUD_NAME= tarciso
+
+# AWS - S3 Amazon
+# AWS_ACCESS_KEY_ID =
+# AWS_SECRET_ACCESS_KEY =
+# AWS_STORAGE_BUCKET_NAME=ap_django
+
+SENTRY_DSN = "https://2d328191d9fc4947be561f0497189a1f@o463442.ingest.sentry.io/5468458"
+
+DATABASE_URL=postgres://pythonpro:pythonpro@localhost:5434/cursodjango
