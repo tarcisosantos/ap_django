@@ -18,3 +18,5 @@ Atualizações...
 Usando GA no lugar Travis CI
 Faltanado configuração do codecov 
 Configurando Postgres Local
+
+Finalizado Bando de Dados - Inciando "Como Escapar das Armadilhas do ORM"
