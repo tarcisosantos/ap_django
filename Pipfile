@@ -30,6 +30,7 @@ django-cloudinary-storage = "*"
 collectfast = "*"
 freeze = "*"
 django-ordered-model = "*"
+ipython = "*"
 
 [requires]
 python_version = "3.8"
