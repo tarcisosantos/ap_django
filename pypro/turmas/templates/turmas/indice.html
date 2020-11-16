@@ -1,7 +1,7 @@
 {% extends 'base/base.html' %}
 {% load static %}
-{% block title %}{{modulo.titulo}}{% endblock title %}
-{% block description %}Página com detalhes do módulo {{ modulo.titulo }}{% endblock description %}
+{% block title %}Indice de Turmas{% endblock title %}
+{% block description %}Página com todas as turmas do curso Python Pro {{ modulo.titulo }}{% endblock description %}
 {% block body %}
     <div class="container">
         {% for modulo in modulos %}

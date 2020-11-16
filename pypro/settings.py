@@ -47,6 +47,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'cloudinary',
     'pypro.base',
+    'pypro.turmas',
     'pypro.aperitivos',
     'pypro.modulos',
     'ordered_model',
