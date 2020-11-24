@@ -39,6 +39,7 @@ def resp_sem_usuario(client, aula):
     resp = client.get(reverse('modulos:aula', kwargs={'slug': aula.slug}))
     return resp
 
+
 def test_usuario_nao_logado_redirect(resp_sem_usuario):
     assert resp_sem_usuario.status_code == 302
     assert resp_sem_usuario.url.startswith(reverse('login'))
