@@ -14,9 +14,9 @@ CLOUD_NAME=tarciso
 
 SENTRY_DSN="https://2d328191d9fc4947be561f0497189a1f@o463442.ingest.sentry.io/5468458"
 
-DATABASE_URL=postgres://postgres:postgres@localhost:5432/postgres
+#DATABASE_URL=postgres://postgres:postgres@localhost:5432/postgres
 
-#DATABASE_URL=postgres://pythonpro:pythonpro@localhost:5434/cursodjango
+DATABASE_URL=postgres://pythonpro:pythonpro@localhost:5434/cursodjango
 
 # Configurações de Email
 
