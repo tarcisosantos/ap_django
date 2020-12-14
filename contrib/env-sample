@@ -12,11 +12,9 @@ CLOUD_NAME=tarciso
 # AWS_SECRET_ACCESS_KEY =
 # AWS_STORAGE_BUCKET_NAME=ap_django
 
-SENTRY_DSN="https://2d328191d9fc4947be561f0497189a1f@o463442.ingest.sentry.io/5468458"
+SENTRY_DSN=
 
-#DATABASE_URL=postgres://postgres:postgres@localhost:5432/postgres
-
-DATABASE_URL=postgres://pythonpro:pythonpro@localhost:5434/cursodjango
+DATABASE_URL=postgres://postgres:postgres@localhost:5432/postgres
 
 # Configurações de Email
 
