@@ -69,10 +69,9 @@
         },
         "cloudinary": {
             "hashes": [
-                "sha256:4357892948134d1a9345442e86030743338b25ff1be69786fb2251363f9c57e3"
+                "sha256:79a903b59a95e66076adffa4e848aa41e2d41f33edad2b2233b158597cc8f372"
             ],
-            "index": "pypi",
-            "version": "==1.23.0"
+            "version": "==1.24.0"
         },
         "collectfast": {
             "hashes": [
