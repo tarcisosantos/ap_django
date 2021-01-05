@@ -41,10 +41,10 @@
         },
         "boto3": {
             "hashes": [
-                "sha256:4ef19b74babe3925255cc0718bbed228e9b147f05051c39b3081c8e7fa6f1044",
-                "sha256:a1e64250415afd441799df4f70ac401bcf1611a300f3221547121193e3b10479"
+                "sha256:4dc8f76109891d916b894209865f4d968e64aaffa4c92147ff027cf4d557ac6c",
+                "sha256:999e01f2e8a6a83e4c3942cf94ba18965af23e7a370b1c7b0c3afdc6f7a1a317"
             ],
-            "version": "==1.16.36"
+            "version": "==1.16.49"
         },
         "botocore": {
             "hashes": [
