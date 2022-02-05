@@ -335,11 +335,10 @@
         },
         "pytest": {
             "hashes": [
-                "sha256:b12e09409c5bdedc28d308469e156127004a436b41e9b44f9bff6446cbab9152",
-                "sha256:d69e1a80b34fe4d596c9142f35d9e523d98a2838976f1a68419a8f051b24cec6"
+                "sha256:42901e6bd4bd4a0e533358a86e848427a49005a3256f657c5c8f8dd35ef137a9",
+                "sha256:dad48ffda394e5ad9aa3b7d7ddf339ed502e5e365b1350e0af65f4a602344b11"
             ],
-            "markers": "python_version >= '3.6'",
-            "version": "==6.2.0"
+            "version": "==7.0.0"
         },
         "pytest-django": {
             "hashes": [
@@ -634,11 +633,10 @@
         },
         "pytest": {
             "hashes": [
-                "sha256:b12e09409c5bdedc28d308469e156127004a436b41e9b44f9bff6446cbab9152",
-                "sha256:d69e1a80b34fe4d596c9142f35d9e523d98a2838976f1a68419a8f051b24cec6"
+                "sha256:42901e6bd4bd4a0e533358a86e848427a49005a3256f657c5c8f8dd35ef137a9",
+                "sha256:dad48ffda394e5ad9aa3b7d7ddf339ed502e5e365b1350e0af65f4a602344b11"
             ],
-            "markers": "python_version >= '3.6'",
-            "version": "==6.2.0"
+            "version": "==7.0.0"
         },
         "pytest-cov": {
             "hashes": [
